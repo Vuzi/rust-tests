@@ -1,0 +1,8 @@
+[package]
+name = "bubble_sort"
+version = "0.1.0"
+authors = ["Guillaume Villerez <gvi@zenexity.com>"]
+
+[dependencies]
+rand="0.3.0"
+chrono = "0.2"
